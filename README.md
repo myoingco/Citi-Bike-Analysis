@@ -11,6 +11,8 @@ Utilize Tableau to create visuals and discover phenomens based on the provided d
 
 ## Introduction
 
+![image](https://github.com/user-attachments/assets/d5e14b0f-7820-491e-b183-67f4b8037e1b)
+
 
 Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) program, you are now responsible for overseeing the largest bike-sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
